@@ -27,7 +27,7 @@ struct Jugador {
 int main() {
 
     cout << "=====================================================" << endl;
-    cout << " LPR 2026 - ACTIVIDAD 9: PRACTICA EN PAPEL PENSAR ANTES DE PROGRAMAR " << endl;
+    cout << " LPR 2026 - ACTIVIDAD 9: PRACTICA EN PAPEL: PENSAR ANTES DE PROGRAMAR " << endl;
     cout << " Estudiante / Grupo: Mikaela Batirola" << endl;
     cout << "=====================================================" << endl;
 
