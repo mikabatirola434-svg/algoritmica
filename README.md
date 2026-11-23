@@ -1,11 +1,11 @@
 # Algorítmica: Pensar antes de programar
 
-**Institución:** Escuela de Educación Técnica N.° 1 "Eduardo Ader" - Vicente López
-**Materia:** Laboratorio de Programación (LPR)
-**Curso:** 5.º Año 3.ª
-**Actividad:** 9 — Práctica en papel "Pensar antes de programar"
-**Estudiante:** Mikaela Batirola
-**Año:** 2026
+- **Institución:** Escuela de Educación Técnica N.° 1 "Eduardo Ader" - Vicente López
+- **Materia:** Laboratorio de Programación (LPR)
+- **Curso:** 5.º Año 3.ª
+- **Actividad:** 9 — Práctica en papel "Pensar antes de programar"
+- **Estudiante:** Mikaela Batirola
+- **Año:** 2026
 
 ## Descripción
 
