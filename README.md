@@ -72,10 +72,6 @@ algoritmica/
 
 En la carpeta `capturas/` se guarda la evidencia de la ejecución del programa en consola (`matriz_ejecucion.png`). Las hojas de carpeta con los diagramas de flujo y las pruebas de escritorio están incluidas en el informe de la carpeta `docs/`.
 
-## Repositorios
-
-* GitHub: (pegar acá la URL pública)
-* GitLab: (pegar acá la URL pública)
 
 ##  Licencia
 
